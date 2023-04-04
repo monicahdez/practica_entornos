@@ -86,6 +86,7 @@ public class notas {
 	 * 
 	 */
 /*NUEVO COMENTARIO*/
+	/*Este es un comentario nuevo*/
 	public void Mostrar() {
 		// print ln lo que hace es que al terminar el print baja la linea
 		System.out.println(" notas introducidas son:");
